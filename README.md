@@ -41,8 +41,6 @@ Dedicated for managing RFWs and RFCs as issues.
 
 ## Docs
 
-- create RFW]()
-- create -> 
-
+No Documentation
 
 <!-- This section must link to the docs which are in the root of the repository in /docs -->
