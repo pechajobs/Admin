@@ -59,9 +59,8 @@ Take time to complete each section below with as much detail as is required to e
 
 * 1) Explain concretely what will manifest as a result of this RFW.
 * 2) Explain how is it different from what is already manifesting i.e. what we already have?*
-* 3) Explain what Profila users will experience as a result of this RFW. How will they feel as a result of it? How will they benefit as a result of it?*
-* 4) Explain what Profila brands will experience as a result of this RFW. How will they feel as a result of it? How will they benefit as a result of it?*
-* 5) If applicable, provide sample messages for any new messages the system will display as a result of this RFW.*
+* 3) Explain what OpenPecha users will experience as a result of this RFW. How will they feel as a result of it? How will they benefit as a result of it?*
+* 4) If applicable, provide sample messages for any new messages the system will display as a result of this RFW.*
 
 <h2 id="conceptual-design">Conceptual Design</h2>
 
