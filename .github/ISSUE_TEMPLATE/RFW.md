@@ -29,7 +29,7 @@ about: A Request for Work
 
 <h2 id="housekeeping">Housekeeping</h2>
 
-Make sure to clearly understand [Type-A](https://docs.google.com/document/d/1LQBz8wL-96jBdpWJLkvmsnJbm4-lUm9lexZFWfSfra4#heading=h.yrnebqnrvkpj) and [Type-B](https://docs.google.com/document/d/1LQBz8wL-96jBdpWJLkvmsnJbm4-lUm9lexZFWfSfra4#heading=h.yrnebqnrvkpj) requests, and the relavant limitations. Failling to follow the guidelines pertaining to the two acceptable types of RFWs will automatically lead to disfqualification of the RFW. 
+Make sure to clearly understand [Type-A]([https://docs.google.com/document/d/1LQBz8wL-96jBdpWJLkvmsnJbm4-lUm9lexZFWfSfra4#heading=h.yrnebqnrvkpj](https://docs.google.com/document/d/17RHdAuJep5GsirwL7vEbnE1qX9zdmf67YioNQxA-c-k/edit#heading=h.yrnebqnrvkpj)) and [Type-B](https://docs.google.com/document/d/17RHdAuJep5GsirwL7vEbnE1qX9zdmf67YioNQxA-c-k/edit#heading=h.yrnebqnrvkpj) requests, and the relavant limitations. Failling to follow the guidelines pertaining to the two acceptable types of RFWs will automatically lead to disfqualification of the RFW. 
 
 Take time to complete each section below with as much detail as is required to establish a comprehensive understanding about the underlying product specification.
 
