@@ -1,14 +1,14 @@
 ---
-name: RFW
-about: For all RFWs
-title: "[RFW]"
+name: RFJ
+about: For all RFJs
+title: "[RFJ]"
 labels: ''
 assignees: ''
 
 ---
 
 ---
-name: RFW
+name: RFJ
 about: A Request for Work
 ---
 
@@ -29,7 +29,7 @@ about: A Request for Work
 
 <h2 id="housekeeping">Housekeeping</h2>
 
-Make sure to clearly understand [Type-A]([https://docs.google.com/document/d/1LQBz8wL-96jBdpWJLkvmsnJbm4-lUm9lexZFWfSfra4#heading=h.yrnebqnrvkpj](https://docs.google.com/document/d/17RHdAuJep5GsirwL7vEbnE1qX9zdmf67YioNQxA-c-k/edit#heading=h.yrnebqnrvkpj)) and [Type-B](https://docs.google.com/document/d/17RHdAuJep5GsirwL7vEbnE1qX9zdmf67YioNQxA-c-k/edit#heading=h.yrnebqnrvkpj) requests, and the relavant limitations. Failling to follow the guidelines pertaining to the two acceptable types of RFWs will automatically lead to disfqualification of the RFW. 
+Make sure to clearly understand [Type-A]([https://docs.google.com/document/d/1LQBz8wL-96jBdpWJLkvmsnJbm4-lUm9lexZFWfSfra4#heading=h.yrnebqnrvkpj](https://docs.google.com/document/d/17RHdAuJep5GsirwL7vEbnE1qX9zdmf67YioNQxA-c-k/edit#heading=h.yrnebqnrvkpj)) and [Type-B](https://docs.google.com/document/d/17RHdAuJep5GsirwL7vEbnE1qX9zdmf67YioNQxA-c-k/edit#heading=h.yrnebqnrvkpj) requests, and the relavant limitations. Failling to follow the guidelines pertaining to the two acceptable types of RFJs will automatically lead to disfqualification of the RFJ. 
 
 Take time to complete each section below with as much detail as is required to establish a comprehensive understanding about the underlying product specification.
 
@@ -53,18 +53,18 @@ Take time to complete each section below with as much detail as is required to e
 
 <h2 id="named-concepts">Named Concepts</h2>
 
-*Clearly introduce any new named concepts used in this RFW*
+*Clearly introduce any new named concepts used in this RFJ*
 
 <h2 id="examples">Examples</h2>
 
-* 1) Explain concretely what will manifest as a result of this RFW.
+* 1) Explain concretely what will manifest as a result of this RFJ.
 * 2) Explain how is it different from what is already manifesting i.e. what we already have?*
-* 3) Explain what OpenPecha users will experience as a result of this RFW. How will they feel as a result of it? How will they benefit as a result of it?*
-* 4) If applicable, provide sample messages for any new messages the system will display as a result of this RFW.*
+* 3) Explain what OpenPecha users will experience as a result of this RFJ. How will they feel as a result of it? How will they benefit as a result of it?*
+* 4) If applicable, provide sample messages for any new messages the system will display as a result of this RFJ.*
 
 <h2 id="conceptual-design">Conceptual Design</h2>
 
-*Provide a conceptual overview of the contents of the RFW. Be very specific, spare no words here. At the same time, make sure the conceptual outline is as well structured and detailed as possible.* 
+*Provide a conceptual overview of the contents of the RFJ. Be very specific, spare no words here. At the same time, make sure the conceptual outline is as well structured and detailed as possible.* 
 
 <h2 id="drawbacks">Drawbacks</h2>
 
