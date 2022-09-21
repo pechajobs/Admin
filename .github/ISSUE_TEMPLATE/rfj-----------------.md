@@ -19,35 +19,35 @@ Preliminary Questions དྲི་བ་ཁག
 Check Yes or No ཡོད་མེད་གཉིས་གང་རུང་འདེམས།
 
 Is this proposed work really necessary? ལས་ཀ་འདི་གལ་ཆེན་པོ་རེད་འདུག་གས།
--[ ] Yes རེད།
--[ ] No མ་རེད།
+- [ ] Yes རེད།
+- [ ] No མ་རེད།
 Is it more important than other work we could be doing? ང་ཚོས་ལས་བཞིན་པའི་ལས་ཀ་གཞན་པ་ལས་གལ་ཆེ་བ་རེད་པས།
--[ ] Yes རེད།
--[ ] No མ་རེད།
+- [ ] Yes རེད།
+- [ ] No མ་རེད།
 Will it take more than four hours?
--[ ] Yes རེད།
--[ ] No མ་རེད།
+- [ ] Yes རེད།
+- [ ] No མ་རེད།
 Does it focus on a single part of the system?
--[ ] Yes རེད།
--[ ] No མ་རེད།
+- [ ] Yes རེད།
+- [ ] No མ་རེད།
 If it consists of several small tasks bundled together, do all the tasks focus on a single part of the system?
--[ ] Yes རེད།
--[ ] No མ་རེད།
+- [ ] Yes རེད།
+- [ ] No མ་རེད།
 Does this request either build something new or extend something that already exists but not mix the two?
--[ ] Yes རེད།
--[ ] No མ་རེད།
+- [ ] Yes རེད།
+- [ ] No མ་རེད།
 Would this work contribute to the mission of OpenPecha?
--[ ] Yes རེད།
--[ ] No མ་རེད།
+- [ ] Yes རེད།
+- [ ] No མ་རེད།
 Could it be done without having a negative effect on other parts of OpenPecha?
--[ ] Yes རེད།
--[ ] No མ་རེད།
+- [ ] Yes རེད།
+- [ ] No མ་རེད།
 Does it provide more business value than alternative solutions?
--[ ] Yes རེད།
--[ ] No མ་རེད།
+- [ ] Yes རེད།
+- [ ] No མ་རེད།
 Does it take less effort than alternative solutions?
--[ ] Yes རེད།
--[ ] No མ་རེད།
+- [ ] Yes རེད།
+- [ ] No མ་རེད།
 
 If you checked “yes” for all answers, continue to the main section.
 1. Summary
