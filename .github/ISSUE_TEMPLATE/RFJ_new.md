@@ -43,13 +43,13 @@ Give the context or background for why to do this job. 
 
 Give an overview of the job. Make an organized list of features, with priorities, if relevant. Also describe what's not included in this job and what work to save for a future job.
 
-## 5. High-level approach
-
-Describe the approach that the assignee should take to job. Give enough detail for the assignee to create a detailed plan in the RFC.
-
-## 6. Constraints
+## 5. Constraints
 
 What constraints, deadlines, or other requirements should the assignee consider?
+
+## 6. High-level approach
+
+Describe the approach that the assignee should take to job. Give enough detail for the assignee to create a detailed plan in the RFC.
 
 ## 7. Other options
 
