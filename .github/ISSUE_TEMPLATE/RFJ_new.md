@@ -1,13 +1,13 @@
 **RFJ title**:
 
-**Assigner**:
+**Client**:
 
-**Assignee**:
+**Account manager**:
 
 # Preliminary Questions
 Check Yes or No
 
-1. Is this job necessary?
+1. Has this job already been done?
 - [ ] Yes
 - [ ] No
 2. Is it more important than other work we could be doing?
@@ -35,34 +35,34 @@ In one or two sentences, describe the new job.
 
 Define any new or important concepts used in the summary (section one) or design and scope (section four).
 
-## 3. Context
+## 3. Problem and context
 
-Give the context or background for why to do this job. 
+What is the problem you're trying to solve? Give the context or background for why you want PechaJobs to do this job.
 
 ## 4. Design and scope
 
-Give an overview of the job. Make an organized list of features, with priorities, if relevant. Also describe what's not included in this job and what work to save for a future job.
+Give a detailed description of the job. What does the job include and what does it not include?
 
 ## 5. Constraints
 
-What constraints, deadlines, or other requirements should the assignee consider?
+What constraints, including deadlines, budget, or other requirements, should PechaJobs consider?
 
-## 6. High-level approach
+## 6. Approach
 
-Describe the approach that the assignee should take to job. Give enough detail for the assignee to create a detailed plan in the RFC.
+Describe the approach that PechaJobs should take to this job. Give enough detail for PechaJobs to create a detailed plan.
 
 ## 7. Other options
 
-What other options did you consider? Why didn’t you choose them?
+Is there a better way to solve this problem than the proposed solution?
 
 ## 8. Risks and unknowns
 
-What could go wrong and what can the assignee do to reduce those risks? What don’t we know that could affect this job. 
+What might go wrong and what can OpenPecha do to reduce those risks? What questions do you have?
 
 ## 9. Goals
 
-What does success look like? Describe high-level goals and put them in order by priority. Include metrics. If they aren't obvious, explain why these metrics are important.
+What does success look like? List and prioritize high-level goals. Include metrics if necessary. If the metrics aren't obvious, explain why they are important.
 
 ## 10. Timeline
 
-How long should this job take? List the key milestones.
+When should PechaJobs finish this job? List the key milestones.
