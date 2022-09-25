@@ -1,8 +1,8 @@
-**RFJ title**
+**RFJ title**:
 
-**Assigner**
+**Assigner**:
 
-**Assignee**
+**Assignee**:
 
 # Preliminary Questions
 Check Yes or No
