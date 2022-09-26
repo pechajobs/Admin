@@ -2,9 +2,9 @@
 
 **Client**:
 
-**Account manager**:
+**Job manager**:
 
-# Preliminary Questions
+# Preliminary questions
 Check Yes or No
 
 1. Has this job already been done?
