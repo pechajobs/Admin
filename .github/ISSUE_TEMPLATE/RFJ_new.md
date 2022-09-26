@@ -33,19 +33,19 @@ In one or two sentences, describe the new job.
 
 ## 2. Keyword definitions
 
-Define any new or important concepts used in the summary (section one) or design and scope (section four).
+Define any new or important concepts used in the summary (section one) or job decription and scope (section four).
 
 ## 3. Problem and context
 
 What is the problem you're trying to solve? Give the context or background for why you want PechaJobs to do this job.
 
-## 4. Design and scope
+## 4. Job description and scope
 
-Give a detailed description of the job. What does the job include and what does it not include?
+Give a detailed description of the job. What does it include and what does it not include?
 
 ## 5. Constraints
 
-What constraints, including deadlines, budget, or other requirements, should PechaJobs consider?
+What constraints—–including deadlines, budget, or other requirements––should PechaJobs consider?
 
 ## 6. Approach
 
@@ -53,7 +53,7 @@ Describe the approach that PechaJobs should take to this job. Give enough detail
 
 ## 7. Other options
 
-Is there a better way to solve this problem than the proposed solution?
+Have you considered other ways to solve this problem? Why didn't you choose them?
 
 ## 8. Risks and unknowns
 
