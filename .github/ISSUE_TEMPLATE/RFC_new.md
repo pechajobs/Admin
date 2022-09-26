@@ -1,34 +1,48 @@
 **RFC title**:
 
-**RFJ title**:
+**RFJ link**:
 
-**Assigner**:
+**Job manager**:
 
-**Assignee**:
+**Freelancer(s)**:
 
 ## 1. Summary
+
 Copy from RFW.
 
 ## 2. Keyword definitions
-Define any new or important concepts from the detailed approach section of this RFC.
+
+Copy definitions from RFJ (section two).
+Define any new or important concepts from the detailed approach (section three) of this RFC.
 
 ## 3. Detailed approach
+
 Describe the step-by-step approach you will take to doing this job.
 
 ## 4. Constraints
-Describe any constraints that the assigner didn’t mention in the RFJ that could affect the outcome of this job.
+
+Describe any constraints that the client didn’t mention in the RFJ that could affect the outcome of this job.
 
 ## 5. Other options
+
 What other options did you consider in your approach to the job? Why didn’t you choose them?
 
-## 6. Risks
-What could go wrong with your plan?
+## 6. Risks and risk reduction
 
-## 7. Risk reduction
-What can you do to reduce the risks you described? 
+What could go wrong with your plan? What can you do to reduce the risks you described?
 
-## 8. Open questions
+## 7. Open questions
+
 What don’t you know about this job that you need to know to complete it?
 
-## 9. Milestones
-List the milestones for this job and when will you complete them.
+## 8. Resources
+
+What resources do you need to do this job?
+
+## 9. Definition of acceptable end product
+
+Give a precise, detailed description of the end product. DEscribe the threshold for what is acceptable and what is not. Include the delivery format, PechaJobs quality standard for this type of job, etc. 
+
+## 10. Milestones
+
+List the milestones for this job and when will you complete them. Each milestone should represent about one day of work and link to a pull request (PR).
