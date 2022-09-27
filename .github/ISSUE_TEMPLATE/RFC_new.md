@@ -8,7 +8,7 @@
 
 ## 1. Summary
 
-Copy from RFW.
+Copy from RFJ.
 
 ## 2. Keyword definitions
 
