@@ -7,77 +7,71 @@ assignees: ''
 
 ---
 
----
-name: RFJ
-about: A Request for Work
----
+**RFJ title**:
 
-<h2 id="table-of-contents">Table of Contents</h2>
+**Client**:
 
-- [Housekeeping](#housekeeping)
-- [Owner](#owner)
-- [Summary](#summary)
-- [Is This Really Necessary?](#is-this-really-necessary)
-- [Motivation](#motivation)
-- [Named concepts](#named-concepts)
-- [Examples](#examples)
-- [Conceptual Design](#conceptual-design)
-- [Drawbacks](#drawbacks)
-- [Alternatives](#alternatives)
-- [New Data](#new-data)
-- [Adoption Window](#adoption-window)
+**Job manager**:
 
-<h2 id="housekeeping">Housekeeping</h2>
+# Preliminary questions
+Check Yes or No
 
-Make sure to clearly understand [Type-A]([https://docs.google.com/document/d/1LQBz8wL-96jBdpWJLkvmsnJbm4-lUm9lexZFWfSfra4#heading=h.yrnebqnrvkpj](https://docs.google.com/document/d/17RHdAuJep5GsirwL7vEbnE1qX9zdmf67YioNQxA-c-k/edit#heading=h.yrnebqnrvkpj)) and [Type-B](https://docs.google.com/document/d/17RHdAuJep5GsirwL7vEbnE1qX9zdmf67YioNQxA-c-k/edit#heading=h.yrnebqnrvkpj) requests, and the relavant limitations. Failling to follow the guidelines pertaining to the two acceptable types of RFJs will automatically lead to disfqualification of the RFJ. 
+1. Has this job already been done?
+- [ ] Yes
+- [ ] No
+2. Is it more important than other work we could be doing?
+- [ ] Yes
+- [ ] No
+3. Would this work contribute to the mission of PechaJobs?
+- [ ] Yes
+- [ ] No
+4. Does it offer more business value than alternative solutions?
+- [ ] Yes
+- [ ] No
+5. Does it take less effort than alternative solutions?
+- [ ] Yes
+- [ ] No
 
-Take time to complete each section below with as much detail as is required to establish a comprehensive understanding about the underlying product specification.
+If you checked **yes** for all answers, continue to the request for job (RFJ).
 
-**ALL BELOW FIELDS ARE REQUIRED**
+# Request for job
 
-<h2 id="owner">Owner</h2>
+## 1. Summary
 
-*Who is the owner of this request?*
+In one or two sentences, describe the new job.
 
-<h2 id="summary">Summary</h2>
+## 2. Keyword definitions
 
-*What is being introduced, added, changed, deleted and why; explain it in short and concise form. Basically, this section provides a high-level overview and summary of what will be elaborated upon below.*
+Define any new or important concepts used in the summary (section one) or job decription and scope (section four).
 
-<h2 id="is-this-really-necessary">Is This Really Necessary?</h2>
+## 3. Problem and context
 
-*When answering this question, keep in mind, everything done here, is away from doing something else elsewhere. It's not enough for a thing to be a "good choice" or "good way", it should be the "best choice" or "best way".*
+What is the problem you're trying to solve? Give the context or background for why you want PechaJobs to do this job.
 
-<h2 id="motivation">Motivation</h2>
+## 4. Job description and scope
 
-*Describe in detail the motivation behind the change.*
+Give a detailed description of the job. What does it include and what does it not include?
 
-<h2 id="named-concepts">Named Concepts</h2>
+## 5. Constraints
 
-*Clearly introduce any new named concepts used in this RFJ*
+What constraints—–including deadlines, budget, or other requirements––should PechaJobs consider?
 
-<h2 id="examples">Examples</h2>
+## 6. Approach
 
-* 1) Explain concretely what will manifest as a result of this RFJ.
-* 2) Explain how is it different from what is already manifesting i.e. what we already have?*
-* 3) Explain what OpenPecha users will experience as a result of this RFJ. How will they feel as a result of it? How will they benefit as a result of it?*
-* 4) If applicable, provide sample messages for any new messages the system will display as a result of this RFJ.*
+Describe the approach that PechaJobs should take to this job. Give enough detail for PechaJobs to create a detailed plan.
 
-<h2 id="conceptual-design">Conceptual Design</h2>
+## 7. Other options
 
-*Provide a conceptual overview of the contents of the RFJ. Be very specific, spare no words here. At the same time, make sure the conceptual outline is as well structured and detailed as possible.* 
+Have you considered other ways to solve this problem? Why didn't you choose them?
 
-<h2 id="drawbacks">Drawbacks</h2>
+## 8. Risks and unknowns
 
-*What are the possible drawbacks of this? Think carefully how the proposed work will affect what we already have, and the possible ways in which it might end up limiting us in the future, or take us to directions that become diversions from our mission.*
+What might go wrong and what can OpenPecha do to reduce those risks? What questions do you have?
 
-<h2 id="alternatives">Alternatives</h2>
+## 9. Goals
 
-*If applicable, explain what alternatives are there available and known to us that would allow achieving the same or similar business value. Particularly pay attention to the 80/20 rule here i.e. alternatives where we might get 80% of the business value with 20% of the work.*
+What does success look like? List and prioritize high-level goals. Include metrics if necessary. If the metrics aren't obvious, explain why they are important.
 
-<h2 id="new-data">New Data</h2>
+## 10. Timeline
 
-*If applicable, explain clearly the new data artifacts that will result from implementing this proposed work.*
-
-<h2 id="adaption-window">Adaption Window</h2>
-
-A rough timing for the planned release for the specification possibly resulting from this request.
+When should PechaJobs finish this job? List the key milestones.
