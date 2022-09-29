@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**RFJ title**:
+**RFJ title**: 
 
-**Client**:
+**Client**: 
 
-**Job manager**:
+**Job manager**: 
 
 # Preliminary questions
 Check Yes or No
