@@ -56,7 +56,7 @@ Have you considered other ways to solve this problem? Why didn't you choose them
 
 ## 8. Risks and unknowns
 
-What might go wrong and what can OpenPecha do to reduce those risks? What questions do you have?
+What might go wrong and what can OpenPecha do to reduce those risks? What unanswered questions do you have, if any?
 
 ## 9. Goals
 
@@ -64,4 +64,4 @@ What does success look like? List and prioritize high-level goals. Include metri
 
 ## 10. Timeline
 
-When should PechaJobs finish this job? List the key milestones.
+When should PechaJobs finish this job? List the deadlines for completing the key work phases involved.
