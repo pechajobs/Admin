@@ -14,25 +14,15 @@ assignees: ''
 **Job manager**: 
 
 # Preliminary questions
-Check Yes or No
+Answer yes or no:
 
-1. Has this job already been done?
-- [ ] Yes
-- [ ] No
+1. Is this a job that hasn't been done before?
 2. Is it more important than other work we could be doing?
-- [ ] Yes
-- [ ] No
-3. Would this work contribute to the mission of PechaJobs?
-- [ ] Yes
-- [ ] No
+3. Would this work contribute to the mission of the Kumarajiva Project?
 4. Does it offer more business value than alternative solutions?
-- [ ] Yes
-- [ ] No
 5. Does it take less effort than alternative solutions?
-- [ ] Yes
-- [ ] No
 
-If you checked **yes** for all answers, continue to the request for job (RFJ).
+If you answered **yes** for all answers, continue to the request for job (RFJ).
 
 # Request for job
 
