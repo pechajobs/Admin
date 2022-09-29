@@ -18,7 +18,7 @@ Answer yes or no:
 
 1. Is this a job that hasn't been done before?
 2. Is it more important than other work we could be doing?
-3. Would this work contribute to the mission of the Kumarajiva Project?
+3. Would this work contribute to the mission of PechaJobss?
 4. Does it offer more business value than alternative solutions?
 5. Does it take less effort than alternative solutions?
 
