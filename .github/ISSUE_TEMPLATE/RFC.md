@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-**RFC title**:
+**RFC title**: 
 
-**RFJ link**:
+**RFJ link**: 
 
-**Job manager**:
+**Job manager**: 
 
-**Freelancer(s)**:
+**Freelancer(s)**: 
 
 ## 1. Summary
 
