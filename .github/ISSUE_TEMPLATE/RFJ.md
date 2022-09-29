@@ -64,4 +64,4 @@ What does success look like? List and prioritize high-level goals. Include metri
 
 ## 10. Timeline
 
-When should PechaJobs finish this job? List the deadlines for completing the key work phases involved.
+When should PechaJobs finish this job? List the deadlines for completing the key work phases involved in this project.
