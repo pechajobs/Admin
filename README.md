@@ -21,8 +21,8 @@
 
 Dedicated for managing RFWs and RFCs as issues.
 
-- RFW -> Request for Work, [Create](https://github.com/OpenPecha/Requests/issues/new?assignees=&labels=&template=RFW.md&title=%5BRFW%5D")
-- RFC -> Request for Comment, [Create](https://github.com/OpenPecha/Requests/issues/new?assignees=&labels=&template=RFC.md&title=%5BRFC%5D)
+- RFJ -> Request for Job, [Create](https://github.com/pecha-jobs/Requests/issues/new?assignees=&labels=&template=RFJ.md&title=%5BRFJ%5D)
+- RFC -> Request for Comment, [Create](https://github.com/pecha-jobs/Requests/issues/new?assignees=&labels=&template=RFC.md&title=%5BRFC%5D)
 
 <!-- This section provides a high-level overview for the repo -->
 
