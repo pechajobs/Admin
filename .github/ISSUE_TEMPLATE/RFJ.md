@@ -72,7 +72,7 @@ List and prioritize high-level deliverables. Include metrics if necessary. If th
 
 When should PechaJobs finish this job? List the deadlines for completing the key work phases involved in this project.
 
-# Next steps:
+# Next steps
 
 List anything that the client or job manager need to do or find out before this RFJ is accepted.
 
