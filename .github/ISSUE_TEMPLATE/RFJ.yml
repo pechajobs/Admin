@@ -14,7 +14,7 @@ body:
     id: client
     attributes:
       label: Who is the client?
-      description: The client
+      description: Enter the client's name.
       placeholder: ex. email@example.com
       value: "Client name"
     validations:
@@ -36,7 +36,7 @@ body:
     id: pre-question-1
     attributes:
       label: Question 1
-      description: Is this a job that hasn't been done before:?
+      description: Is this a job that hasn't been done before?
       options:
         - 'Yes'
         - 'No'
