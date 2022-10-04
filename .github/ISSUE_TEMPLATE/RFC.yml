@@ -1,0 +1,99 @@
+name: RFC
+description: For all RFCs
+title: "[RFC]: "
+labels:
+-
+assignees: 
+- 
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Welcome to the RFC for PechaJobs!
+  - type: input
+    id: RFJ
+    attributes:
+      label: RFJ link
+      description: Enter the URL of the RFJ.
+      placeholder: RFJ URL
+  - type: input
+    id: job-manager
+    attributes:
+      label: Who is the job manager?
+      description: Enter the job manager's github username.
+      placeholder: ex. email@example.com
+      value: "Client name"
+    validations:
+      required: true
+  - type: input
+    id: team-lead
+    attributes:
+      label: Who is the team lead?
+      description: Enter the team lead's github username.
+      placeholder: github username
+    validations:
+      required: true
+    id: question-1
+    attributes:
+      label: 1. Summary
+      description: Copy from the RFJ.
+    validations:
+      required: true
+  - type: textarea
+    id: question-2
+    attributes:
+      label: 2. Keyword definitions
+      description: Copy definitions from RFJ (section two). Define any new or important concepts from your answers below.
+      value: Keyword - A sentence that defines the keyword.
+    validations:
+      required: true
+  - type: textarea
+    id: question-3
+    attributes:
+      label: 3. Other options
+      description: What other options did you consider before choosing your approach to the job? Why didn’t you choose them?
+    validations:
+      required: true
+  - type: textarea
+    id: question-4
+    attributes:
+      label: 4. Risks and risk reduction
+      description: What could go wrong with your plan? What can you do to reduce the risks you described?
+    validations:
+      required: true
+  - type: textarea
+    id: question-5
+    attributes:
+      label: 5. Constraints
+      description: Describe any constraints that the client didn’t mention in the RFJ that could affect the outcome of this job.
+    validations:
+      required: true
+  - type: textarea
+    id: question-6
+    attributes:
+      label: 6. Open questions
+      description: What more do you need to know about this job to complete it?
+      required: true
+  - type: textarea
+    id: question-7
+    attributes:
+      label: 7. Resources
+      description: What resources do you need to do this job?
+    validations:
+      required: true
+  - type: textarea
+    id: question-8
+    attributes:
+      label: 8. Definition of acceptable end product
+      description: Give a precise, detailed description of the end product. Describe the threshold for what is acceptable and what is not. Include the delivery format, PechaJobs quality standard for this type of job, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: question-9
+    attributes:
+      label: 9. Detailed plan
+      description: Describe the step-by-step plan for doing this job.
+      placeholder: Plam
+      value: "- Step 1: "
+    validations:
+      required: true
