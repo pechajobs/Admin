@@ -150,7 +150,7 @@ body:
       label: 9. Deliverables
       description: List and prioritize high-level deliverables. Include metrics if necessary. If the metrics aren't obvious, explain why they are important.
       placeholder: Deliverables
-      value: "- First deliverable: "
+      value: "- First deliverable"
     validations:
       required: true
   - type: textarea
