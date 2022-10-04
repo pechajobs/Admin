@@ -1,0 +1,173 @@
+name: RFJ
+description: For all RFJs
+title: "[RFJ]: "
+labels:
+-
+assignees: 
+- 
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Welcome to the RFJ for PechaJobs!
+  - type: input
+    id: client
+    attributes:
+      label: Who is the client?
+      description: The client
+      placeholder: ex. email@example.com
+      value: "Client name"
+    validations:
+      required: true
+  - type: input
+    id: job-manager
+    attributes:
+      label: Who is the job manager?
+      description: Enter the job manager's github username.
+      placeholder: The job manager
+      value: "github username"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## Preliminary questions
+  - type: dropdown
+    id: pre-question-1
+    attributes:
+      label: Question 1
+      description: Is this a job that hasn't been done before:?
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true
+  - type: dropdown
+    id: pre-question-2
+    attributes:
+      label: Question 2
+      description: Is it more important than other work we could be doing?
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true
+  - type: dropdown
+    id: pre-question-3
+    attributes:
+      label: Question 3
+      description: Would this work contribute to the mission of PechaJob?
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true
+  - type: dropdown
+    id: pre-question-4
+    attributes:
+      label: Question 4
+      description: Does it offer more business value than alternative solutions?
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true
+  - type: dropdown
+    id: preliminary-question-5
+    attributes:
+      label: Question 5
+      description: Does it take less effort than alternative solutions?
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## Request for job
+  - type: textarea
+    id: question-1
+    attributes:
+      label: 1. Summary
+      description: In one or two sentences, describe the new job.
+    validations:
+      required: true
+  - type: textarea
+    id: question-2
+    attributes:
+      label: 2. Context
+      description: Give the context for why you want PechaJobs to do this job.
+    validations:
+      required: true
+  - type: textarea
+    id: question-3
+    attributes:
+      label: 3. Job description and scope
+      description: Give a detailed description of the job. What does it include and what does it not include?
+    validations:
+      required: true
+  - type: textarea
+    id: question-4
+    attributes:
+      label: 4. Keyword definitions
+      description: Give a detailed description of the job. What does it include and what does it not include?
+      placeholder: Keyword definitions
+      value: "Keyword: A sentence that defines the keyword."
+    validations:
+      required: true
+  - type: textarea
+    id: question-5
+    attributes:
+      label: 5. Constraints
+      description: What constraints—–including deadlines, budget, or other requirements––should PechaJobs consider?
+    validations:
+      required: true
+  - type: textarea
+    id: question-6
+    attributes:
+      label: 6. Approach
+      description: Describe the approach that PechaJobs should take to this job. Give enough detail for PechaJobs to create a detailed plan.
+    validations:
+      required: true
+  - type: textarea
+    id: question-7
+    attributes:
+      label: 7. Other options
+      description: Have you considered other ways to solve this problem? Why didn't you choose them?
+    validations:
+      required: true
+  - type: textarea
+    id: question-8
+    attributes:
+      label: 8. Risks and unknowns
+      description: What might go wrong and what can OpenPecha do to reduce those risks? What unanswered questions do you have, if any?
+    validations:
+      required: true
+  - type: textarea
+    id: question-9
+    attributes:
+      label: 9. Deliverables
+      description: List and prioritize high-level deliverables. Include metrics if necessary. If the metrics aren't obvious, explain why they are important.
+      placeholder: Deliverables
+      value: "- First deliverable: "
+    validations:
+      required: true
+  - type: textarea
+    id: question-10
+    attributes:
+      label: 10. Timeline
+      description: When should PechaJobs finish this job? List the deadlines for completing the key work phases involved in this project.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## Next steps
+  - type: textarea
+    id: next-steps-list
+    attributes:
+      label: To do
+      description: List anything that the client or job manager need to do or find out before this RFJ is accepted.
+      placeholder: Next steps
+      value: "- [ ] First task"
