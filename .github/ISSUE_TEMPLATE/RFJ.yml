@@ -56,7 +56,7 @@ body:
     id: pre-question-3
     attributes:
       label: Question 3
-      description: Would this work contribute to the mission of PechaJob?
+      description: Would this work contribute to the mission of PechaJobs?
       options:
         - 'Yes'
         - 'No'
@@ -141,7 +141,7 @@ body:
     id: question-8
     attributes:
       label: 8. Risks and unknowns
-      description: What might go wrong and what can OpenPecha do to reduce those risks? What unanswered questions do you have, if any?
+      description: What might go wrong and what can PechaJobs do to reduce those risks? What unanswered questions do you have, if any?
     validations:
       required: true
   - type: textarea
