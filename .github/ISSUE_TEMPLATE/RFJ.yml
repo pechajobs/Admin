@@ -15,8 +15,7 @@ body:
     attributes:
       label: Who is the client?
       description: Enter the client's name.
-      placeholder: ex. email@example.com
-      value: "Client name"
+      placeholder: Client name
     validations:
       required: true
   - type: input
@@ -24,8 +23,7 @@ body:
     attributes:
       label: Who is the job manager?
       description: Enter the job manager's github username.
-      placeholder: The job manager
-      value: "github username"
+      placeholder: github username
     validations:
       required: true
   - type: markdown
@@ -112,8 +110,7 @@ body:
     attributes:
       label: 4. Keyword definitions
       description: Give a detailed description of the job. What does it include and what does it not include?
-      placeholder: Keyword definitions
-      value: "Keyword: A sentence that defines the keyword."
+      placeholder: Keyword - A sentence that defines the keyword
     validations:
       required: true
   - type: textarea
