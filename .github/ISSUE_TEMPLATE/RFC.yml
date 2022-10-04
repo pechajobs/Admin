@@ -44,7 +44,7 @@ body:
     attributes:
       label: 2. Keyword definitions
       description: Copy definitions from RFJ (section two). Define any new or important concepts from your answers below.
-      value: Keyword - A sentence that defines the keyword.
+      placeholder: Keyword - A sentence that defines the keyword.
     validations:
       required: true
   - type: textarea
