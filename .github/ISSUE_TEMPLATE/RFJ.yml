@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## Welcome to the RFJ for PechaJobs!
+        ## Welcome to the RFJ form for PechaJobs!
   - type: input
     id: client
     attributes:
