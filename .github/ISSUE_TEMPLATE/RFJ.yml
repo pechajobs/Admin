@@ -169,4 +169,4 @@ body:
       placeholder: Next steps
       value: "- [ ] First task"
     validations:
-    required: true
+      required: true
