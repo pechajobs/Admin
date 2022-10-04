@@ -16,13 +16,14 @@ body:
       label: RFJ link
       description: Enter the URL of the RFJ.
       placeholder: RFJ URL
+    validations:
+      required: true
   - type: input
     id: job-manager
     attributes:
       label: Who is the job manager?
       description: Enter the job manager's github username.
-      placeholder: ex. email@example.com
-      value: "Client name"
+      placeholder: github username
     validations:
       required: true
   - type: input
@@ -73,6 +74,7 @@ body:
     attributes:
       label: 6. Open questions
       description: What more do you need to know about this job to complete it?
+    validations:
       required: true
   - type: textarea
     id: question-7
@@ -93,7 +95,7 @@ body:
     attributes:
       label: 9. Detailed plan
       description: Describe the step-by-step plan for doing this job.
-      placeholder: Plam
+      placeholder: Plan
       value: "- Step 1: "
     validations:
       required: true
