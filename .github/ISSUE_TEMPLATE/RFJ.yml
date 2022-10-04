@@ -168,3 +168,5 @@ body:
       description: List anything that the client or job manager need to do or find out before this RFJ is accepted.
       placeholder: Next steps
       value: "- [ ] First task"
+    validations:
+    required: true
