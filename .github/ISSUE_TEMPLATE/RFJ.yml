@@ -22,7 +22,7 @@ body:
     id: job-manager
     attributes:
       label: Who is the job owner?
-      placeholder: your github username
+      placeholder: Your GitHub username
     validations:
       required: true
   - type: markdown
@@ -32,8 +32,7 @@ body:
   - type: dropdown
     id: pre-question-1
     attributes:
-      label: Question 1
-      description: Is this a job that hasn't been done before?
+      label: Is this a job that hasn't been done before?
       options:
         - 'Yes'
         - 'No'
@@ -42,8 +41,7 @@ body:
   - type: dropdown
     id: pre-question-2
     attributes:
-      label: Question 2
-      description: Is it more important than other work we could be doing?
+      label: Is it more important than other work we could be doing?
       options:
         - 'Yes'
         - 'No'
@@ -52,8 +50,7 @@ body:
   - type: dropdown
     id: pre-question-3
     attributes:
-      label: Question 3
-      description: Would this work contribute to the mission of PechaJobs?
+      label: Would this work contribute to the mission of PechaJobs?
       options:
         - 'Yes'
         - 'No'
@@ -62,8 +59,7 @@ body:
   - type: dropdown
     id: pre-question-4
     attributes:
-      label: Question 4
-      description: Does it offer more business value than alternative solutions?
+      label: Does it offer more business value than alternative solutions?
       options:
         - 'Yes'
         - 'No'
@@ -72,8 +68,7 @@ body:
   - type: dropdown
     id: preliminary-question-5
     attributes:
-      label: Question 5
-      description: Does it take less effort than alternative solutions?
+      label: Does it take less effort than alternative solutions?
       options:
         - 'Yes'
         - 'No'
