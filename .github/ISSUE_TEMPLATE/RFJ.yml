@@ -1,6 +1,7 @@
 name: RFJ
 description: For all RFJs
-title: "RFJ000- "
+title: "RFJ000- Write the title here"
+  placeholder: Client name
 labels:
 -
 assignees: 
