@@ -19,7 +19,7 @@ body:
     validations:
       required: true
   - type: input
-    id: job-manager
+    id: job-owner
     attributes:
       label: Who is the job owner?
       placeholder: Your GitHub username
@@ -32,18 +32,18 @@ body:
   - type: dropdown
     id: pre-question-1
     attributes:
-      label: Is this a new job?
+      label: Does this job really need to be done?
       description: Before answering this question, check to make sure you aren't duplicating any work.
       options:
         - 'Yes'
-        - 'No'
+        - 'No'        
     validations:
       required: true
   - type: dropdown
     id: pre-question-2
     attributes:
-      label: Would this work contribute to the mission of PechaJobs?
-      description: Does this job contribute to the preservation and promotion of the Tibetan language, culture, or Buddhism?
+      label: Is this job the best way to achieve the client's goal?
+      description: Before answering this question, consider if there are any cheaper or easier alternatives
       options:
         - 'Yes'
         - 'No'
@@ -52,17 +52,28 @@ body:
   - type: dropdown
     id: pre-question-3
     attributes:
-      label: Is this job worth doing?
-      description: Think about the value it brings to PechaJobs and our freelancers compared to the time and energy invloved in doing the job.
+      label: Are we the most appropriate organization to do the job?
+      description: Before answering this question, consider whether another person or organization would be more appropriate to do this job.
       options:
         - 'Yes'
         - 'No'
     validations:
       required: true
   - type: dropdown
-    id: preliminary-question-4
+    id: pre-question-4
     attributes:
-      label: Does it take less effort than alternative solutions?
+      label: Would this work contribute to the mission of PechaJobs?
+      description: Before answering this question, coes this job contribute to the preservation and promotion of the Tibetan language, culture, or Buddhism?
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true
+  - type: dropdown
+    id: preliminary-question-5
+    attributes:
+      label: Is this job worth doing?
+      description: Calculate the total cost of this job to PechaJobs' administrators and freelancers. Does it still bring more benefit than cost?
       options:
         - 'Yes'
         - 'No'
