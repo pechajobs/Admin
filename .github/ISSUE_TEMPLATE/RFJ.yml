@@ -32,7 +32,8 @@ body:
   - type: dropdown
     id: pre-question-1
     attributes:
-      label: Is this a job that hasn't been done before?
+      label: Is this a new job?
+      description: Check to make sure you aren't duplicating any work.
       options:
         - 'Yes'
         - 'No'
