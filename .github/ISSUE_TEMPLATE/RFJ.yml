@@ -1,6 +1,6 @@
 name: RFJ
 description: For all RFJs
-title: "RFJ000 - Write the title here"
+title: "RFJ000 - Title"
 labels:
 -
 assignees: 
@@ -21,9 +21,8 @@ body:
   - type: input
     id: job-manager
     attributes:
-      label: Who is the job manager?
-      description: Enter the job manager's github username.
-      placeholder: github username
+      label: Who is the job owner?
+      placeholder: your github username
     validations:
       required: true
   - type: markdown
