@@ -96,6 +96,6 @@ body:
       label: 9. Detailed plan
       description: Describe the step-by-step plan for doing this job.
       placeholder: Plan
-      value: "- Step 1: "
+      value: "- [ ] Step 1: "
     validations:
       required: true
