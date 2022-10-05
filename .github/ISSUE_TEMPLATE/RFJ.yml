@@ -33,7 +33,7 @@ body:
     id: pre-question-1
     attributes:
       label: Is this a new job?
-      description: Check to make sure you aren't duplicating any work.
+      description: Before answering this question, check to make sure you aren't duplicating any work.
       options:
         - 'Yes'
         - 'No'
@@ -42,7 +42,8 @@ body:
   - type: dropdown
     id: pre-question-2
     attributes:
-      label: Is it more important than other work we could be doing?
+      label: Would this work contribute to the mission of PechaJobs?
+      description: Does this job contribute to the preservation and promotion of the Tibetan language, culture, or Buddhism?
       options:
         - 'Yes'
         - 'No'
@@ -51,23 +52,15 @@ body:
   - type: dropdown
     id: pre-question-3
     attributes:
-      label: Would this work contribute to the mission of PechaJobs?
+      label: Is this job worth doing?
+      description: Think about the value it brings to PechaJobs and our freelancers compared to the time and energy invloved in doing the job.
       options:
         - 'Yes'
         - 'No'
     validations:
       required: true
   - type: dropdown
-    id: pre-question-4
-    attributes:
-      label: Does it offer more business value than alternative solutions?
-      options:
-        - 'Yes'
-        - 'No'
-    validations:
-      required: true
-  - type: dropdown
-    id: preliminary-question-5
+    id: preliminary-question-4
     attributes:
       label: Does it take less effort than alternative solutions?
       options:
