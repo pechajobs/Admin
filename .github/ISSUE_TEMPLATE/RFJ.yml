@@ -53,7 +53,7 @@ body:
     id: pre-question-3
     attributes:
       label: Are we the most appropriate organization to do the job?
-      description: Before answering this question, consider whether another person or organization would be more appropriate to do this job.
+      description: Before answering this question, consider whether it would be more appropriate for another person or organization to do this job.
       options:
         - 'Yes'
         - 'No'
