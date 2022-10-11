@@ -108,7 +108,7 @@ body:
     id: question-4
     attributes:
       label: 4. Keyword definitions
-      description: Give a detailed description of the job. What does it include and what does it not include?
+      description: Define any new or important concepts used in the summary (section one) or job decription and scope (section three).
       placeholder: Keyword - A sentence that defines the keyword
     validations:
       required: true
@@ -164,7 +164,7 @@ body:
     id: next-steps-list
     attributes:
       label: To do
-      description: List anything that the client or job manager need to do or find out before this RFJ is accepted.
+      description: List anything that the client or job owner needs to do or find out before this RFJ is accepted.
       placeholder: Next steps
       value: "- [ ] First task"
     validations:
