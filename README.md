@@ -4,20 +4,8 @@
   <br>
 </h1>
 
-<h3 align="center">Requests</h3>
+<h3 align="center">Pecha.jobs Workflow</h3>
 
-
-<!-- Replace the title of the repository -->
-
-<p align="center">
-  <a href="#description">Description</a> •
-  <a href="#owner">Owner</a> •
-  <a href="#integrations">Integrations</a> •
-  <a href="#docs">Docs</a>
-</p>
-<hr>
-
-# Pecha.jobs Workflow
 
 ## Roles
 - The **Client/Management** orders and pays for the job. ལས་ཀའི་སྦྱིན་བདག
