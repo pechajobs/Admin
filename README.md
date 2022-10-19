@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align="center">Pecha.jobs Workflow</h3>
+<h3 align="center">Workflow</h3>
 
 
 ## Roles
