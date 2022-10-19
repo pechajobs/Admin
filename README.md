@@ -17,30 +17,42 @@
 </p>
 <hr>
 
-## Description
+# Pecha.jobs Workflow
 
-Dedicated for managing RFWs and RFCs as issues.
+## Roles
+- The **Client/Management** orders and pays for the job. ལས་ཀའི་སྦྱིན་བདག
+- The **Job Owner** oversees the job for the Management. འགན་འཁུར་བ།
+- The **Team Lead** plans and does the job. ལག་བསྟར་བ།
+- The Team Lead's **Teammates** help the Team Lead do the job. ལས་གྲོགས།
 
-- RFJ -> Request for Job, [Create](https://github.com/pecha-jobs/Requests/issues/new?assignees=&labels=&template=RFJ.yml&title=%5BRFJ%5D)
-- RFC -> Request for Comment, [Create](https://github.com/pecha-jobs/Requests/issues/new?assignees=&labels=&template=RFC.yml&title=%5BRFC%5D)
+## Workflow
 
-<!-- This section provides a high-level overview for the repo -->
+### 1. Create a request for job (RFJ)
+The Job Owner writes an RFJ that details the job that the Client asks for.
 
-## Owner
+### 2. Create a request for comments (RFC)
+The Team Lead writes an RFC to show that they understand the work and have a plan that will lead to success.
 
-- [@ngawangtrinley](https://github.com/ngawangtrinley)
-- [@mikkokotila](https://github.com/mikkokotila)
+### 3. Approve the RFC
+The Job Owner reviews the RFC and meets with the Team Lead to go over it. Once the Job Owner is satisfied with the Team Lead's plan, the Job Owner signs off on the RFC.
 
-<!-- This section lists the owners of the repo -->
+### 4. Create a repository
+The Team Lead creates a job repository, updates its readme file, and transfers the RFC to the new repo.
 
-## Integrations
+### 5. Create a Github project and milestones
+The Team Lead creates a Github project for the job. Then they create milestones based on the key phases of the RFC's detailed plan.
 
-- No integrations with other repos.
+### 6. Convert work plan items into issues
+The Team Lead converts each item in the RFC work plan into an issue and assigns it to both the job's repository and project.
 
-<!-- This section must list as bulleted list how this repo depends or is integrated with other repos -->
+### 7. Assign issues to the team
+The Team Lead assigns each issue to themselves or their Teammates if working as a team.
 
-## Docs
+### 8. Assign milestones to issues
+The Team Lead assigns issues to milestones.
 
-No Documentation
+### 9. Do the work and create pull requests
+The Team Lead and their teammates do the work and add commits. When they are done, they make one pull request per issue/task.
 
-<!-- This section must link to the docs which are in the root of the repository in /docs -->
+### 10. Merge requests
+The Job Owner reviews each pull request, asks for changes if needed, and signs off on the work by merging the PR. After merging the PR, the Job Owner moves the issue to the completed section of the project board.
