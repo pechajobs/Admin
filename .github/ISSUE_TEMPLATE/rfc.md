@@ -1,13 +1,4 @@
 ---
-name: RFC
-about: For all Comments
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
 
 name: RFC  
 about: Describe this issue template's purpose here.  
